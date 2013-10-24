@@ -1,4 +1,4 @@
-npm-boilerplate
-===============
+json-min
+========
 
-A boilerplate for creating npm packages
+Minifies a specified JSON file
