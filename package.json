@@ -8,6 +8,7 @@
   "bin": {
     "jsonmin": "./bin/jsonmin"
   },
+  "main": "./lib/jsonmin",
   "repository": {
     "type": "git",
     "url": "git@github.com:alvincrespo/json-min.git"
