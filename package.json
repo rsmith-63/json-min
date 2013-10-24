@@ -1,0 +1,19 @@
+{
+  "name": "jsonmin",
+  "version": "0.1.0",
+  "description": "Minifies a specified JSON file.",
+  "keywords": ["json", "minify"],
+  "license": "MIT",
+  "author": "Alvin Crespo",
+  "bin": {
+    "jsonmin": "./bin/jsonmin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alvincrespo/json-min.git"
+  },
+  "engines": {
+    "node": "*",
+    "npm": "*"
+  }
+}
